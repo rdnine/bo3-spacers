@@ -1,5 +1,5 @@
 @media (min-width:320px) {
-	.block.all-120,	.block.all-15,	.block.all-150,	.block.all-30,	.block.all-60,	.block.all-90 {display: inline-block}
+	.block.all-120,	.block.all-15,.block.all-150,.block.all-30,.block.all-60,.block.all-90 {display: inline-block}
 	.spacer.all-150 {height: 150px}
 	.spacer.all-120 {height: 120px}
 	.spacer.all-90 {height: 90px}
@@ -19,7 +19,7 @@
 }
 
 @media (min-width:576px) {
-	.block.sm-120,	.block.sm-15,	.block.sm-150,	.block.sm-30,	.block.sm-60,	.block.sm-90 {display: inline-block}
+	.block.sm-120,.block.sm-15,.block.sm-150,.block.sm-30,.block.sm-60,.block.sm-90 {display: inline-block}
 	.spacer.sm-150 {height: 150px}
 	.spacer.sm-120 {height: 120px}
 	.spacer.sm-90 {height: 90px}
@@ -39,7 +39,7 @@
 }
 
 @media (min-width:768px) {
-	.block.md-120,	.block.md-15,	.block.md-150,	.block.md-30, .block.md-60,	.block.md-90 {display: inline-block}
+	.block.md-120,	.block.md-15,.block.md-150,.block.md-30,.block.md-60,.block.md-90 {display: inline-block}
 	.spacer.md-150 {height: 150px}
 	.spacer.md-120 {height: 120px}
 	.spacer.md-90 {height: 90px}
