@@ -1,24 +1,4 @@
-@media (min-width:320px) {
-	.block.all-120,	.block.all-15,.block.all-150,.block.all-30,.block.all-60,.block.all-90 {display: inline-block}
-	.spacer.all-150 {height: 150px}
-	.spacer.all-120 {height: 120px}
-	.spacer.all-90 {height: 90px}
-	.spacer.all-60 {height: 60px}
-	.spacer.all-30 {height: 30px}
-	.spacer.all-15 {height: 15px}
-	.block.all-150 {width: 150px}
-	.block.all-120 {width: 120px}
-	.block.all-90 {width: 90px}
-	.block.all-60 {width: 60px}
-	.block.all-30 {width: 30px}
-	.block.all-15 {width: 15px}
-	.taleft {text-align: left}
-	.tacenter {text-align: center}
-	.taright {text-align: right}
-	.tajustify {text-align: justify}
-}
-
-@media (min-width:576px) {
+@media screen and (min-width:577px) {
 	.block.sm-120,.block.sm-15,.block.sm-150,.block.sm-30,.block.sm-60,.block.sm-90 {display: inline-block}
 	.spacer.sm-150 {height: 150px}
 	.spacer.sm-120 {height: 120px}
@@ -38,7 +18,7 @@
 	.sm-tajustify {text-align: justify}
 }
 
-@media (min-width:768px) {
+@media screen and (min-width:768px) {
 	.block.md-120,	.block.md-15,.block.md-150,.block.md-30,.block.md-60,.block.md-90 {display: inline-block}
 	.spacer.md-150 {height: 150px}
 	.spacer.md-120 {height: 120px}
@@ -58,7 +38,7 @@
 	.md-tajustify {text-align: justify}
 }
 
-@media (min-width:992px) {
+@media screen and (min-width:992px) {
 	.block.lg-120,.block.lg-15,.block.lg-150,.block.lg-30,.block.lg-60,.block.lg-90 {display: inline-block}
 	.spacer.lg-150 {height: 150px}
 	.spacer.lg-120 {height: 120px}
@@ -78,7 +58,7 @@
 	.lg-tajustify {text-align: justify}
 }
 
-@media (min-width:1200px) {
+@media screen and (min-width:1200px) {
 	.block.xl-120,.block.xl-15,.block.xl-150,.block.xl-30,.block.xl-60,.block.xl-90 {display: inline-block}
 	.spacer.xl-150 {height: 150px}
 	.spacer.xl-120 {height: 120px}
@@ -98,7 +78,7 @@
 	.xl-tajustify {text-align: justify}
 }
 
-@media (max-width:575px) {
+@media screen and (max-width:576px) {
 	.block.xs-120,.block.xs-15,.block.xs-150,.block.xs-30,.block.xs-60,.block.xs-90 {display: inline-block}
 	.spacer.xs-150 {height: 150px}
 	.spacer.xs-120 {height: 120px}
@@ -117,3 +97,21 @@
 	.xs-taright {text-align: right}
 	.xs-tajustify {text-align: justify}
 }
+
+.block.all-120,	.block.all-15,.block.all-150,.block.all-30,.block.all-60,.block.all-90 {display: inline-block}
+.spacer.all-150 {height: 150px}
+.spacer.all-120 {height: 120px}
+.spacer.all-90 {height: 90px}
+.spacer.all-60 {height: 60px}
+.spacer.all-30 {height: 30px}
+.spacer.all-15 {height: 15px}
+.block.all-150 {width: 150px}
+.block.all-120 {width: 120px}
+.block.all-90 {width: 90px}
+.block.all-60 {width: 60px}
+.block.all-30 {width: 30px}
+.block.all-15 {width: 15px}
+.taleft {text-align: left}
+.tacenter {text-align: center}
+.taright {text-align: right}
+.tajustify {text-align: justify}
